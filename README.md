@@ -1,6 +1,6 @@
 # Pranati S
 
-> I'm a upcoming software engineer based in India 🇮🇳
+> I'm a upcoming software engineer based in India 
 
 Over the course of my studies, I am constantly updating myself with the skills required to be a Software Developer. With my constant learning and application I will easily adjust with the workflow of a company and deliver the best I can.
 
