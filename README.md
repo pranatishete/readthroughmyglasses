@@ -1,88 +1,32 @@
-# Pranati S
+<h1 align="center">Hi 👋, I'm Pranati</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=readthroughmyglasses&label=Profile%20views&color=0e75b6&style=flat" alt="readthroughmyglasses" /> </p>
 
-> I'm a upcoming software engineer based in India 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=readthroughmyglasses" alt="readthroughmyglasses" /></a> </p>
 
-Over the course of my studies, I am constantly updating myself with the skills required to be a Software Developer. With my constant learning and application I will easily adjust with the workflow of a company and deliver the best I can.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-# ☎️ Contact information
+- 🔭 I’m currently working on **Data Analysis**
 
-📧 pranatishete23@gmail.com
+- 🌱 I’m currently learning **Django, Jinja**
 
-🔗 [LinkedIn](http://linkedin.com/in/pranati-shete-9936b613b)
+- 📫 How to reach me **pranatishete23@gmail.com**
 
----
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-# **👩🏻‍💻** Work experience
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/readthroughmyglasses" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="readthroughmyglasses" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/http://linkedin.com/in/pranati-shete-9936b613b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="http://linkedin.com/in/pranati-shete-9936b613b" height="30" width="40" /></a>
+<a href="https://medium.com/@csshete" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@csshete" height="30" width="40" /></a>
+</p>
 
-## Web Developer Intern
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-*NAMAN Angels India Foundation, Mumbai*
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=readthroughmyglasses&show_icons=true&locale=en&layout=compact" alt="readthroughmyglasses" /></p>
 
-- Contributed to design and development of client and server database applications.
-- Maintained and updated HTML/CSS templates on a regular basis and as required.
-- Assisted in planning and implementing a dynamic online platform which allows Investor to interact and invest in Start-ups of their preference.
-- Provided technical support to other web design team members as directed.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=readthroughmyglasses&show_icons=true&locale=en" alt="readthroughmyglasses" /></p>
 
-### Crio.do Student Developer
-
-- Implemented basic editor features for an online IDE with data structures such as search/replace, cut/copy/paste.
-- Fetched Used Tingo’s REST APIs to fetch stock quotes.
-- Published the portfolio manager library as a JAR for easy versioning and distribution
-
----
-
-# 🛠 Skills
-
-## 💻 Technology
-
-### Python ⭐️⭐️⭐️⭐️
-
-My "native" programming language, I've worked with it for over 6 years. I've used it in the front-end with React and Redux, in the back-end for APIs with Node, Express and Hapi.js and for testing automation using Mocha and later on
-
-### Web Technologies
-
- HTML, CSS, PHP, JavaScript, XAMPP
-
-### Database
-
-MySQL, SQLITE3, SQLALCHEMY
-
----
-
-## 🗣 Projects
-
-### Retail Banking System                                          (In Progress)
-
-• Worked on Flask SqlAlchemy ORM module for signing complex queries.
-• Built an API wrapper for handling different endpoints of the Spotify API
-• Handled multiple API requests using asynchronous processing
-• Data Analysis and visualization of users collected JSON data to show top artists, tracks, and albums added by users.
-
-### **Spotify Profile Analyzer Using REST API**
-
-• Created a flask application using Spotify API
-• Built an API wrapper for handling different endpoints of the Spotify API
-• Handled multiple API requests using asynchronous processing
-• Data Analysis and visualization of users collected JSON data to show top artists, tracks, and albums added by users.
-• [see this project](https://spotify-profile-analyzer.herokuapp.com/)
-
-### Build a Dashboard for the Analysis of Aadhaar Dataset using pyspark and Bokeh
-
-• Identified the variables that significantly affect the target needed.
-• Wrote and optimized SQL queries and sub queries functions to perform data extraction and merging of data stored.
-• Integrated and visualized data from pyspark Data Frames.
-• Interacted with the pyspark Data Frames using Spark SQL and created interactive modern web plots in Bokeh
-• [See this project](https://readthroughmyglasses.github.io/Aadhar_Analysis/)
-
----
-
-# 📜 Articles
-
----
-
-# 📚 Education
-
-## **Bachelor's Degree in Computer Engineering**
-
-*2020 (unfinished due to covid)*
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=readthroughmyglasses&" alt="readthroughmyglasses" /></p>
